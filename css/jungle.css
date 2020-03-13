@@ -6,7 +6,7 @@
 }
     @media screen and (min-width: 768px){
         body {
-            background-color: yellowgreen;
+            background-image: url(tree.jpeg);
         }
     .column {
         width: 220px;
